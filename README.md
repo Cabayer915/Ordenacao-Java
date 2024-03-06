@@ -8,6 +8,7 @@ O projeto possui as seguintes funcionalidades básicas:
 
 - **Bubble Sort**: A função de Bubble Sort ocorre na classe `BubbleSort`, onde ele armazena o maior valor encontrado e sobe ele comparando com o próximo indice da lista.
 - **Selection Sort**: A função de Selection Sort ocorre na classe `Main`, onde ele compara os valores da lista em ordem sequencial pelo menor valor.
+- **Insertion Sort**: A função de Insertion Sort ocorre na classe `InsertionSort`, onde ele divide os elementos em duas listas (ordenada e não ordenada), e ordena os elementos jogando seus indices para as listas que forem necessárias até completar a ordenação.
 - **Pesquisa Binária**: A pesquisa binária ocorre na classe `PesquisaBinaria`, onde ele percorre a lista e retorna o valor definido pelo usuário.
 
 ## Tecnologias Utilizadas
